@@ -1,0 +1,24 @@
+{
+  "name": "jot-reduceron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olydis/jot-reduceron.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/olydis/jot-reduceron/issues"
+  },
+  "homepage": "https://github.com/olydis/jot-reduceron#readme",
+  "devDependencies": {
+    "@types/node": "^8.0.46",
+    "typescript": "^2.5.3"
+  }
+}
